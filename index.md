@@ -1,4 +1,3 @@
-
 # 吃在华中大
 
 
@@ -15,33 +14,36 @@
 ### 食堂汇
 
 ​	在食堂汇中，你可以选择查看不同食堂的菜品信息，菜品卡片上包含了菜品的 菜品名称，菜品价格，菜品图片，菜品点赞数，菜品地点等信息。点击菜品卡片，可以查看别人对这道菜的评论，也可以为菜品点赞，你可以在**我的**->**喜爱菜品**中看到自己点过赞的菜品。在卡片中，点击**菜品评价**右边的铅笔按钮也可以为当前菜品发表评价。
-![食堂汇](https://pic.imgdb.cn/item/61c2a9e22ab3f51d91025dda.jpg)
-![卡片](https://pic.imgdb.cn/item/61c2a9e22ab3f51d91025dd4.jpg)
+
+<img src="https://pic.imgdb.cn/item/61c2a9e22ab3f51d91025dda.jpg" alt="食堂汇" style="zoom: 33%;" />
+
+<img src="https://pic.imgdb.cn/item/61c2a9e22ab3f51d91025dd4.jpg" alt="卡片" style="zoom:33%;" />
 
 ### 圈子
 
 ​	在圈子中，你可以看到**吃在华中大**用户所发表的帖子，点击帖子后，可以在帖子下面发表自己的评论，贴主可以在我的消息中看到自己发送的帖子的评论，要注意评论的友善哦。
-![圈子](https://pic.imgdb.cn/item/61c2a9e92ab3f51d9102616b.jpg)
+
+<img src="https://pic.imgdb.cn/item/61c2a9e92ab3f51d9102616b.jpg" alt="圈子" style="zoom:33%;" />
 
 ### 发帖
 
 ​	在发帖页面中，可以发送两种内容，一是随心吐槽贴，在随心吐槽帖中，你可以发表自己对在华中大吃上面的高见，二是评价菜品帖，在评价菜品中，你可以发表对一道菜品的评价，也可以上传这道菜的图片。
-![随心吐槽](https://pic.imgdb.cn/item/61c2a9ed2ab3f51d910264c6.jpg)
 
-![评价菜品](https://pic.imgdb.cn/item/61c2a9e22ab3f51d91025de0.jpg)
+<img src="https://pic.imgdb.cn/item/61c2a9ed2ab3f51d910264c6.jpg" alt="随心吐槽" style="zoom:33%;" />
+
+<img src="https://pic.imgdb.cn/item/61c2a9e22ab3f51d91025de0.jpg" alt="评价菜品" style="zoom:33%;" />
 
 ### 今日主打	
 
 ​	在首页上，你可以看到每日由后台服务器使用算法为您推荐的几道菜品。
-![今日主打](https://pic.imgdb.cn/item/61c2a9e92ab3f51d91026158.jpg)
-
+![今日主打]()
+https://pic.imgdb.cn/item/61c2a9e92ab3f51d91026158.jpg
 
 ### 搜索
 
 ​	在首页上方的搜索栏中，你可以搜索自己感兴趣的菜品，搜索到的菜品将以卡片列表的方式为您展示。（PS：我们使用了模糊查询，输入菜品名称的一部分就可以查到你所感兴趣的菜品哦）
-![搜索](https://pic.imgdb.cn/item/61c2a9e92ab3f51d9102614f.jpg)
-
 
 ## 小程序获取方式
+
 当前小程序还在审核阶段，审核完成后即可使用右侧二维码进入，现阶段欢迎您联系管理员加入体验计划，加入体验计划后，可以使用左侧二维码使用**吃在华中大**小程序。
 ![小程序获取方式](https://pic.imgdb.cn/item/61c2a4362ab3f51d91009fc8.png)
