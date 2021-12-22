@@ -33,8 +33,8 @@
 ### 今日主打	
 
 ​	在首页上，你可以看到每日由后台服务器使用算法为您推荐的几道菜品。
-![今日主打]()
-https://pic.imgdb.cn/item/61c2a9e92ab3f51d91026158.jpg
+![今日主打](https://pic.imgdb.cn/item/61c2a9e92ab3f51d91026158.jpg)
+
 
 ### 搜索
 
