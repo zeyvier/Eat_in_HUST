@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+---
+title: Eat_in_HUST
+date: 2021-12-21 23:52:34
+tags: software
 
-You can use the [editor on GitHub](https://github.com/zeyvier/Eat_in_HUST/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 小程序简介
 
-```markdown
-Syntax highlighted code block
+​	今儿个去吃哪家食堂的哪道菜呢？相信在这所拥有超过三十家食堂的大学学习的你也曾纠结过这个问题，**吃在华中大**也许能帮助你解决这个问题。
 
-# Header 1
-## Header 2
-### Header 3
+​	在这里，你可以在**食堂汇**中看到一家食堂里有没有你心仪的菜品，也可以看到别人对不同的菜品的赞扬或者吐槽，也可以在**圈子**里看到别人发表的帖子，这些帖子也许是对某一座食堂的综合评价，也可能是韵苑食堂的避雷指南。
 
-- Bulleted
-- List
+​	当然，你也可以在这个平台发出自己的声音，你可以在这里和他人分享一道你喜爱的美味佳肴，或者吐槽一道曾经深深震撼到你的黑暗料理。你也可以在**食堂汇**中，为你心爱的菜品点赞，你所赞赏的每一份菜品，你都可以在**我喜欢的**界面上找到他们，于此同时，收到更多点赞的菜品也更有希望登上首页的今日主打栏目。你也可以在**圈子**里发表自己对在华中大吃上面的高见或者评论别人所发的帖子，每一次友善的交流，既可以为华中大的同窗带来便利，也会帮助**吃在华中大**成为更好的社区。
 
-1. Numbered
-2. List
+## 功能介绍
 
-**Bold** and _Italic_ and `Code` text
+### 食堂汇
 
-[Link](url) and ![Image](src)
-```
+​	在食堂汇中，你可以选择查看不同食堂的菜品信息，菜品卡片上包含了菜品的 菜品名称，菜品价格，菜品图片，菜品点赞数，菜品地点等信息。点击菜品卡片，可以查看别人对这道菜的评论，也可以为菜品点赞，你可以在**我的**->**喜爱菜品**中看到自己点过赞的菜品。在卡片中，点击**菜品评价**右边的铅笔按钮也可以为当前菜品发表评价。
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### 圈子
 
-### Jekyll Themes
+​	在圈子中，你可以看到**吃在华中大**用户所发表的帖子，点击帖子后，可以在帖子下面发表自己的评论，贴主可以在我的消息中看到自己发送的帖子的评论，要注意评论的友善哦。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zeyvier/Eat_in_HUST/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 发帖
 
-### Support or Contact
+​	在发帖页面中，可以发送两种内容，一是随心吐槽贴，在随心吐槽帖中，你可以发表自己对在华中大吃上面的高见，二是评价菜品帖，在评价菜品中，你可以发表对一道菜品的评价，也可以上传这道菜的图片。
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 今日主打	
+
+​	在首页上，你可以看到每日由后台服务器使用算法为您推荐的几道菜品。
+
+### 搜索
+
+​	在首页上方的搜索栏中，你可以搜索自己感兴趣的菜品，搜索到的菜品将以卡片列表的方式为您展示。（PS：我们使用了模糊查询，输入菜品名称的一部分就可以查到你所感兴趣的菜品哦）
+
+## 小程序获取方式
+
+![小程序获取方式](https://pic.imgdb.cn/item/61c2a4362ab3f51d91009fc8.png)
