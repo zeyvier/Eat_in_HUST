@@ -1,10 +1,5 @@
----
-title: Eat_in_HUST
-date: 2021-12-21 23:52:34
-tags: software
 
----
-
+# 吃在华中大
 
 
 ## 小程序简介
